@@ -1,0 +1,53 @@
+"abc" / xyz
+123 + 456
+789 * pop
+1275 * 3
+12 * 13
+15 * xyz
+20 * 5
+31 * 10
+aeiou *= 2
+abc * xyz
+123 + 456
+a
+/
+v
+c
+<
+;
+c >
+d *
+// some comment here
+// some other comment here
+// and a final comment is here
+abc + def + xyz
+123 * 456 / 2
+456 *= 12 / 20
+200 * 20 / 30
+10 * 6 * 8 * 20
+"abc"
+'abc'
+/*
+some comment
+sndgfndvcnh
+*/
+a + b
+a - c + b
+// empty line
+abc
+123
+=
+>>
+...
+a1
+"x"
+3.14
+$+=$
+A - B
+312
+'312'
+451 + 60 + 10
+1090 + 20
+560 + 540 + 7509
+547 + 30 + a
+10 + 10 + 10 + 10
